@@ -27,9 +27,9 @@ Episodios de Entrenamiento: 1000
 ## Resultados y Métricas de Rendimiento
 Tras completar las 1000 épocas de entrenamiento, el agente demuestra una notable convergencia hacia la política óptima:
 
-Recompensa media (Primeros 100 episodios): ~`-2.09` (Fase exploratoria inicial con muchas penalizaciones).
-Recompensa media (Últimos 100 episodios): ~`+9.29` (Fase de explotación y estabilidad de la política).
-Promedio de pasos (Últimos 100 episodios): ~`6.46` pasos.
+Recompensa media (Primeros 100 episodios): ~ -2.09 (Fase exploratoria inicial con muchas penalizaciones).
+Recompensa media (Últimos 100 episodios): ~ +9.29 (Fase de explotación y estabilidad de la política).
+Promedio de pasos (Últimos 100 episodios): ~ 6.46 pasos.
 Ruta Greedy Final: [(0, 0) ➔ (1, 0) ➔ (2, 0) ➔ (3, 0) ➔ (3, 1) ➔ (3, 2) ➔ (3, 3)].
 Recompensa acumulada óptima: +9.50.
 
